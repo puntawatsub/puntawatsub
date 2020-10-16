@@ -1,16 +1,21 @@
-### Hi there 👋
+### **Hello! Poon Here.**
 
-<!--
-**puntawatsub/puntawatsub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome To My Github Profile!**
+  
+  - ✏️ I'm an Apple Developer
+  
+  - 💻 **Co-Founder** and **Chairman** of [[Banana Development]](https://github.com/Banana-Development)
 
-Here are some ideas to get you started:
+**My Hobbies Are :**
+   
+   • ⌨️ Coding : Coding is the first priority for me right now. I had so fun programming (exept for bugs 😂) welp. HTML don't have bugs
+   
+   • 🎵 Listening To Music (especially EDM and Future Bass)
+  
+**Some of My Facts :**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   •  I'm 14 Years old
+   
+   • 🇹🇭 I'm in Thailand
+
+   ![My github stats](https://github-readme-stats.vercel.app/api?username=puntawatsub&show_icons=true)
