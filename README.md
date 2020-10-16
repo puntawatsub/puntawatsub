@@ -8,13 +8,11 @@
 
 **My Hobbies Are :**
    
-   • ⌨️ Coding : Coding is the first priority for me right now. I had so fun programming (exept for bugs 😂) welp. HTML don't have bugs
-   
-   • 🎵 Listening To Music (especially EDM and Future Bass)
+   • ⌨️ Coding
   
 **Some of My Facts :**
 
-   •  I'm 14 Years old
+   • 💩 I'm 14 Years old
    
    • 🇹🇭 I'm in Thailand
 
