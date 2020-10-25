@@ -2,7 +2,7 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm an Apple Developer
+  - ✏️ I'm an App Developer
   
   - 💻 **Co-Founder** and **Chairman** of [[Banana Development]](https://github.com/Banana-Development)
 
