@@ -4,7 +4,7 @@
   
   - ✏️ I'm an App Developer
   
-  - 💻 **Co-Founder** and **Chairman** of [[Banana Development]](https://github.com/Banana-Development)
+  - 💻 **Co-Founder** and **CTO** of [[Banana Development]](https://github.com/Banana-Development)
 
 **My Hobbies Are :**
    
