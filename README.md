@@ -17,4 +17,4 @@
    • 🇹🇭 I'm in Thailand
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=puntawatsub&show_icons=true)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puntawatsub)]
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puntawatsub)
