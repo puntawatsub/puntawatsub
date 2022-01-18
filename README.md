@@ -1,4 +1,4 @@
-![inedible-banner](https://user-images.githubusercontent.com/35761701/149980229-2a94787c-859f-46a4-b748-e4b62b02acb6.png)
+![inedible-banner](https://raw.githubusercontent.com/puntawatsub/profileimage/main/Frame%2012-2.svg?token=GHSAT0AAAAAABN64TD2GRGDHRYMVG3LMWHEYPQGBXQ)
 ### **Hello! Poon Here.**
 
 **Welcome To My Github Profile!**
