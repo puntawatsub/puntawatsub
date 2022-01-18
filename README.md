@@ -1,5 +1,5 @@
 ![inedible-banner](https://raw.githubusercontent.com/puntawatsub/profileimage/main/logo.svg)
-Why rain water when you can rain bananas!
+Happy rebranding! The banana reference got removed so I added it to my Profile.
 ### **Hello! Poon Here.**
 
 **Welcome To My Github Profile!**
