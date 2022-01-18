@@ -1,12 +1,16 @@
 ![inedible-banner](https://raw.githubusercontent.com/puntawatsub/profileimage/main/logo.svg)
 Happy rebranding! The banana reference got removed so I added it to my Profile.
+
+**Old website: [inediblebanana.com](https://inediblebanana.com)**
+
+**Rebranded website (Coming Soon!): [inedible.dev](https://inedible.dev)**
 ### **Hello! Poon Here.**
 
 **Welcome To My Github Profile!**
   
   - ✏️ I'm an App Developer
   
-  - 💻 **Co-Founder** and **CTO** of [[Banana Development]](https://github.com/Banana-Development)
+  - 💻 **Co-Founder** and **CTO** of [Banana Development](https://github.com/Banana-Development)
 
 **My Hobbies Are :**
    
