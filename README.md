@@ -10,7 +10,7 @@ Happy rebranding! The banana reference got removed so I added it to my Profile.
   
   - ✏️ I'm an App Developer
   
-  - 💻 **Co-Founder** and **CTO** of [Banana Development](https://github.com/Banana-Development)
+  - 💻 **Co-Founder** and **CTO** of Banana Development now [Inedible.dev](https://github.com/Banana-Development)
 
 **My Hobbies Are :**
    
