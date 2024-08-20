@@ -8,7 +8,7 @@ Happy rebranding! The banana reference got removed so I added it to my Profile.
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm an App Developer
+  - ✏️ I'm an IT Student
   
   - 💻 **Co-Founder** and **CTO** of Banana Development now [Inedible.dev](https://github.com/Banana-Development)
 
@@ -18,9 +18,9 @@ Happy rebranding! The banana reference got removed so I added it to my Profile.
   
 **Some of My Facts :**
 
-   • 💩 I'm 17 Years old
+   • 💩 I'm 18 Years old
    
-   • 🇹🇭 I'm in Thailand
+   • 🇹🇭 I'm in Thailand (Studying in Finland 🇫🇮)
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=puntawatsub&show_icons=true)
    
