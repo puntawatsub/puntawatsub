@@ -1,9 +1,7 @@
 ![inedible-banner](https://raw.githubusercontent.com/puntawatsub/profileimage/main/logo.svg)
 Happy rebranding! The banana reference got removed so I added it to my Profile.
 
-**Old website: [inediblebanana.com](https://inediblebanana.com)**
-
-**Rebranded website (Coming Soon!): [inedible.dev](https://inedible.dev)**
+**website: [inedible.dev](https://inedible.dev)**
 ### **Hello! Poon Here.**
 
 **Welcome To My Github Profile!**
