@@ -18,7 +18,7 @@ Happy rebranding! The banana reference got removed so I added it to my Profile.
 
    • 💩 I'm 18 Years old
    
-   • 🇹🇭 I'm in Thailand (Studying in Finland 🇫🇮)
+   • 🇹🇭 I'm from Thailand (Studying in Finland 🇫🇮)
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=puntawatsub&show_icons=true)
    
