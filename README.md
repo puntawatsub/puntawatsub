@@ -16,7 +16,7 @@ Happy rebranding! The banana reference got removed so I added it to my Profile.
   
 **Some of My Facts :**
 
-   • 💩 I'm 18 Years old
+   • 💩 I'm 19 Years old
    
    • 🇹🇭 I'm from Thailand (Studying in Finland 🇫🇮)
 
