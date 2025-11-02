@@ -8,7 +8,7 @@ Happy rebranding! The banana reference got removed so I added it to my Profile.
   
   - ✏️ I'm an IT Student
   
-  - 💻 **Co-Founder** and **CTO** of Banana Development now [Inedible.dev](https://github.com/Banana-Development)
+  - [Inedible.dev](https://github.com/Banana-Development)
 
 **My Hobbies Are :**
    
